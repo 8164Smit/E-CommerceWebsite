@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.custom-navbar {
+    background-color: #007bff;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #d1e7ff !important;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
